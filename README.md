@@ -14,11 +14,15 @@ A reporting interface that brings credit, payment, balance, installment, and ban
 
 ![Financial analysis dashboard](assets/syp-rapor.png)
 
+---
+
 ### Cash and Card Operations
 
 A financial operations screen for tracking card transactions, collections, bank activity, references, and related records.
 
 ![Cash and card operations interface](assets/syp-kasakart.png)
+
+---
 
 ### Order Management Flow
 
@@ -26,11 +30,15 @@ A multi-section order workflow combining customer information, balances, deliver
 
 ![Order management interface](assets/syp-siparis.png)
 
+---
+
 ### Invoice Management Flow
 
 An invoice workflow that connects customer data, document details, source orders, stock balances, tax calculations, and shipment completion.
 
 ![Invoice management interface](assets/syp-fatura.png)
+
+---
 
 ### Material Planning and Inventory
 
